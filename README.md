@@ -10,11 +10,11 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@CodeSagarOfficial" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="CodeSagarOfficial" height="40" width="200"  /></a>&nbsp;
-<a href="https://www.instagram.com/CodeSagarOfficial" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="CodeSagarOfficial" height="40" width="40"  /></a>&nbsp;
-<a href="https://medium.com/@CodeSagarOfficial" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="CodeSagarOfficial" height="30" width="40"  /></a>&nbsp;
-<a href="https://twitter.com/codesagar_co" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="CodeSagarOfficial" height="30" width="40" /></a>&nbsp;
-<a href="https://www.linkedin.com/company/codesagar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="CodeSagarOfficial" height="30" width="40" /></a>&nbsp;
+<a href="https://www.youtube.com/@CodeSagarOfficial" target="blank"><img align="center" src="https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/youtube.png" alt="CodeSagarOfficial" height="40" width="40"  /></a>&nbsp;
+<a href="https://www.instagram.com/CodeSagarOfficial" target="blank"><img align="center" src="https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/instagram.png" alt="CodeSagarOfficial" height="40" width="40"  /></a>&nbsp;
+<a href="https://medium.com/@CodeSagarOfficial" target="blank"><img align="center" src="https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/medium.png" alt="CodeSagarOfficial" height="40" width="40"  /></a>&nbsp;
+<a href="https://twitter.com/codesagar_co" target="blank"><img align="center" src="https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/twitter.png" alt="CodeSagarOfficial" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/company/codesagar" target="blank"><img align="center" src="https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/linkedin.png" alt="CodeSagarOfficial" height="40" width="40" /></a>&nbsp;
 </p>
 
 <!--  Languages and Tools Section -->
