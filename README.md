@@ -1,4 +1,4 @@
-![Web&App Design and Development](https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/banneryt.png)
+![Web&App Design and Development](https://github.com/CodeSagarOfficial/CodeSagarOfficial/blob/main/bannergit.png)
 
 <h1 align="center">Hi there 👋, I'm Jaspreet</h1>
 
